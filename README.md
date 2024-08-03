@@ -1,6 +1,6 @@
 ## Upgrade Ideas
 (R) = Run based upgrade
-(P) = Perminant upgrade
+(P) = Permanent upgrade
 
 ### Shooting
 
